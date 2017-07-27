@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huff", "Huff\Huff.csproj", "{58A420BC-2AEC-47E4-A125-6A5303C9D45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unhuff", "Unhuff\Unhuff.csproj", "{EADC6ECA-5192-4617-A3E4-59D4029940C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibHuffman", "LibHuffman\LibHuffman.csproj", "{3EB09FDB-4B8A-4064-9093-F6CF8C959DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A420BC-2AEC-47E4-A125-6A5303C9D45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A420BC-2AEC-47E4-A125-6A5303C9D45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A420BC-2AEC-47E4-A125-6A5303C9D45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A420BC-2AEC-47E4-A125-6A5303C9D45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADC6ECA-5192-4617-A3E4-59D4029940C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADC6ECA-5192-4617-A3E4-59D4029940C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADC6ECA-5192-4617-A3E4-59D4029940C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADC6ECA-5192-4617-A3E4-59D4029940C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB09FDB-4B8A-4064-9093-F6CF8C959DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB09FDB-4B8A-4064-9093-F6CF8C959DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB09FDB-4B8A-4064-9093-F6CF8C959DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB09FDB-4B8A-4064-9093-F6CF8C959DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
